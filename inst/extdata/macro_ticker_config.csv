@@ -1,0 +1,40 @@
+﻿country,country_iso,ticker,metric,unit,type,transform
+United States,US,Q-ML/AAAEY,CORP_BOND_YIELD,percentage,corp,FALSE
+United States,US,Q-ML/AAY,CORP_BOND_YIELD,percentage,corp,FALSE
+United States,US,Q-ML/AEY,CORP_BOND_YIELD,percentage,corp,FALSE
+United States,US,Q-ML/BBBEY,CORP_BOND_YIELD,percentage,corp,FALSE
+United States,US,Q-ML/BBY,CORP_BOND_YIELD,percentage,corp,FALSE
+United States,US,Q-ML/BEY,CORP_BOND_YIELD,percentage,corp,FALSE
+United States,US,Q-ML/CCCY,CORP_BOND_YIELD,percentage,corp,FALSE
+Argentina,AR,Q-ODA/ARG_NGDP_D,GDP_DEFLATOR,index,econ,TRUE
+Australia,AU,Q-ODA/AUS_NGDP_D,GDP_DEFLATOR,index,econ,TRUE
+Brazil,BR,Q-ODA/BRA_NGDP_D,GDP_DEFLATOR,index,econ,TRUE
+China,CN,Q-ODA/CHN_NGDP_D,GDP_DEFLATOR,index,econ,TRUE
+Democratic Republic of Congo,CD,Q-ODA/COD_NGDP_D,GDP_DEFLATOR,index,econ,TRUE
+Egypt,EG,Q-ODA/EGY_NGDP_D,GDP_DEFLATOR,index,econ,TRUE
+Germany,DE,Q-ODA/DEU_NGDP_D,GDP_DEFLATOR,index,econ,TRUE
+India,IN,Q-ODA/IND_NGDP_D,GDP_DEFLATOR,index,econ,TRUE
+Japan,JP,Q-ODA/JPN_NGDP_D,GDP_DEFLATOR,index,econ,TRUE
+Kenya,KE,Q-ODA/KEN_NGDP_D,GDP_DEFLATOR,index,econ,TRUE
+South Korea,KR,Q-ODA/KOR_NGDP_D,GDP_DEFLATOR,index,econ,TRUE
+Mexico,MX,Q-ODA/MEX_NGDP_D,GDP_DEFLATOR,index,econ,TRUE
+Nigeria,NG,Q-ODA/NGA_NGDP_D,GDP_DEFLATOR,index,econ,TRUE
+Russia,RU,Q-ODA/RUS_NGDP_D,GDP_DEFLATOR,index,econ,TRUE
+South Africa,ZA,Q-ODA/ZAF_NGDP_D,GDP_DEFLATOR,index,econ,TRUE
+Turkey,TR,Q-ODA/TUR_NGDP_D,GDP_DEFLATOR,index,econ,TRUE
+United Kingdom,GB,Q-ODA/GBR_NGDP_D,GDP_DEFLATOR,index,econ,TRUE
+United States,US,Q-ODA/USA_NGDP_D,GDP_DEFLATOR,index,econ,TRUE
+Venezuela,VE,Q-ODA/VEN_NGDP_D,GDP_DEFLATOR,index,econ,TRUE
+Zimbabwe,ZW,Q-ODA/ZWE_NGDP_D,GDP_DEFLATOR,index,econ,TRUE
+United States,US,Q-LPPM/PLAT,PLAT,price,commod,FALSE
+United States,US,Q-LPPM/PALL,PALL,price,commod,FALSE
+United States,US,Q-LBMA/GOLD,GOLD,price,commod,FALSE
+United States,US,Q-EIA/STEO_BREPUUS_M,BRENT_CRUDE,price,commod,FALSE
+South Africa,ZA,AVST-ZAR=X,USDZAR,price,econ,FALSE
+South Africa,ZA,AVST-EURZAR=X,EURZAR,price,econ,FALSE
+South Africa,ZA,AVST-GBPZAR=X,GBPZAR,price,econ,FALSE
+United States,US,AVST-^GSPC,SPX,index,econ,TRUE
+South Africa,ZA,Q-ODA/ZAF_PCPIPCH,CPI,percentage,econ,FALSE
+United States,US,Q-ODA/USA_PCPIPCH,CPI,percentage,econ,FALSE
+Zimbabwe,ZW,Q-ODA/ZWE_PCPIPCH,CPI,percentage,econ,FALSE
+South Africa,ZA,AVST-^J203.JO,ALSI,index,econ,TRUE
